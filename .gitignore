@@ -1,0 +1,43 @@
+*.iml
+.gradle
+/local.properties
+/.idea/caches
+/.idea/libraries
+/.idea/modules.xml
+/.idea/workspace.xml
+/.idea/navEditor.xml
+/.idea/assetWizardSettings.xml
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+.cxx
+local.properties
+
+node_modules/
+# Android Studio
+.idea/
+**/build/
+*.apk
+*.aab
+
+# Archivos locales
+.agents/
+tinyprice-codelab.html
+tinyprice-codelab_files/
+
+# Supabase
+supabase/.temp/
+supabase/.branches/
+supabase/step13-verification.json
+
+# Credenciales y archivos privados
+.env
+.env.*
+*.jks
+*.keystore
+*.pem
+*.key
+
+# Archivos temporales
+*.log
